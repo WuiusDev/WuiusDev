@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Wuius | Ingeniero de Sistemas
 
 Construyendo arquitecturas de software en capas, aplicaciones móviles nativas y soluciones a medida enfocadas en rendimiento y escalabilidad.
